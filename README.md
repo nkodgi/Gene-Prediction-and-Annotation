@@ -6,7 +6,6 @@ Please see that read.me for information on how to run **Glimmer3** for gene pred
 
 The analysis was conducted on:  
 - **Ubuntu 22.04** (GNU/Linux 5.15.167.4-microsoft-standard-WSL2 x86_64) running on a **2-core laptop**  
-- **10-core MacBook** with an **Intel Core i7** on the **PACE Cluster**  
 
 ## Tools Used
 - **Glimmer version 3.02**: A gene prediction tool optimized for prokaryotic genomes.
